@@ -26,9 +26,7 @@ def load_data(train_file, test_file, DIMENSIONS):
         if len(line_list) == 0:
             continue
 
-        for col_ind in range(DIMENSIONS):
-            X_train[idx, col_ind] = float(line_list[col_ind])
-
+        X_train[idx] = np.array(line_list[:-1], dtype=float)
         Y_train[idx] = int(line_list[-1])
         idx += 1
 
@@ -47,9 +45,7 @@ def load_data(train_file, test_file, DIMENSIONS):
         if len(line_list) == 0:
             continue
 
-        for col_ind in range(DIMENSIONS):
-            X_test[idx, col_ind] = float(line_list[col_ind])
-
+        X_test[idx] = np.array(line_list[:-1], dtype=float)
         Y_test[idx] = int(line_list[-1])
         idx += 1
 
