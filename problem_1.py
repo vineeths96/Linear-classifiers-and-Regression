@@ -4,6 +4,7 @@ from problem_1.problem_1a import problem_1a
 from problem_1.problem_1b import problem_1b
 from problem_1.problem_1c import problem_1c
 
+
 # Create results directory
 os.makedirs('results', exist_ok=True)
 
