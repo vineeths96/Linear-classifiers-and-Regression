@@ -1,4 +1,3 @@
-# Imports
 import random
 import numpy as np
 from problem_1.linear_regression_train import linear_regression_train
@@ -7,7 +6,7 @@ from problem_1.logistic_regression_train import logistic_regression_train
 from problem_1.logistic_regression_test import logistic_regression_test
 
 
-# Function for Problem 1a
+# Function for Problem 1c
 def problem_1c(X_train, Y_train, X_test, Y_test):
     N_list = [10, 20, 50, 100, 250, 500, 1000]
     output_file = open('./results/problem_1c.txt', "w")

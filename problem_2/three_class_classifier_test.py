@@ -1,8 +1,8 @@
 import numpy as np
 
 
-# Tests linear regression model
-def linear_regression_test(model, X_test, Y_test):
+# Tests three_class_classifier regression model
+def three_class_classifier_test(model, X_test, Y_test):
     pred_labels = model.predict(X_test)
 
     # Convert real values to class labels

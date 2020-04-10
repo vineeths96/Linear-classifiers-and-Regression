@@ -1,4 +1,3 @@
-# Imports
 import random
 import numpy as np
 from problem_1.linear_regression_train import linear_regression_train
