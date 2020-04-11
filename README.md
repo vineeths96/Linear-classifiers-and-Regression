@@ -37,6 +37,8 @@ This repository holds the python implementation files for Assignment #2 for E1 2
 * One vs Rest classification
 * One hot classification
 
+Problem 1 deals with implementing and evaluating linear and logistic regressions with synthetic data drawn from Gamma, Uniform and Normal distributions. Problem 2 deals with classification using the Iris dataset with three 2-class classifiers using ‘one vs rest’ strategy and with a 3-class linear classifier (by taking the target variable as a 3-dimensional one-hot vector). Problems 3 deals with classification using German credit data using linear least squares and logistic regression. Problem 4 deals with an 1D regression with polynomial fitting.
+
 ### Built With
 This project was built with 
 
