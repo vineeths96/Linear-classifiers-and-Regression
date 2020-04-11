@@ -9,7 +9,7 @@
   </a>
   <h3 align="center">Pattern Recognition and Neural Networks</h3>
   <p align="center">
-    Natural Language Inference (NLI) using SNLI dataset.
+    Classifiers and Regression
     <br />
     <a href=https://github.com/vineeths96/Pattern-Recognition-2><strong>Explore the repository»</strong></a>
     <br />
@@ -17,6 +17,7 @@
     <a href=https://github.com/vineeths96/Pattern-Recognition-2/blob/master/Problem_Statement.pdf>View Problem Statement</a>
     <a href=https://github.com/vineeths96/Pattern-Recognition-2/blob/master/results/report.pdf>View Report</a>
   </p>
+
 
 
 
