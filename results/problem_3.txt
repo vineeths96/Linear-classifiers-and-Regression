@@ -1,2 +1,2 @@
 N, Linear reg, Logistic reg
-76.00, 76.50
+0.76, 0.77

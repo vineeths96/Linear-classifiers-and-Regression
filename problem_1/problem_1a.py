@@ -8,7 +8,7 @@ from problem_1.logistic_regression_test import logistic_regression_test
 
 # Function for Problem 1a
 def problem_1a(X_train, Y_train, X_test, Y_test):
-    N_list = [10, 20, 50, 100, 250, 500, 1000]
+    N_list = [10, 20, 50, 100, 250, 500, 1000, 1500, 2000]
     output_file = open('./results/problem_1a.txt', "w")
     output_file.write("N, Linear reg, Logistic reg\n")
 
