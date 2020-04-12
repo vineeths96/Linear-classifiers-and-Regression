@@ -52,4 +52,3 @@ def load_data(train_file, test_file, DIMENSIONS):
     file.close()
 
     return X_train, Y_train, X_test, Y_test
-

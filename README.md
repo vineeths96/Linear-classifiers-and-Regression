@@ -78,6 +78,14 @@ python problem_<QUES_NUM>.py
 
 
 
+<!-- RESULTS -->
+
+## Results
+
+View [Report](results/report.pdf) for the results and detailed discussions.
+
+
+
 <!-- LICENSE -->
 
 ## License
