@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/vineeths96/Pattern-Recognition-2">
+  <a href="https://github.com/vineeths96/Linear-classifiers-and-Regression">
     <img src="results/logo.jpg" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Pattern Recognition and Neural Networks</h3>
@@ -14,8 +14,8 @@
     <a href=https://github.com/vineeths96/Linear-classifiers-and-Regression><strong>Explore the repository»</strong></a>
     <br />
     <br />
-    <a href=https://github.com/vineeths96/Pattern-Recognition-2/blob/master/Problem_Statement.pdf>View Problem Statement</a>
-    <a href=https://github.com/vineeths96/Pattern-Recognition-2/blob/master/results/report.pdf>View Report</a>
+    <a href=https://github.com/vineeths96/Linear-classifiers-and-Regression/blob/master/Problem_Statement.pdf>View Problem Statement</a>
+    <a href=https://github.com/vineeths96/Linear-classifiers-and-Regression/blob/master/results/report.pdf>View Report</a>
   </p>
 
 
@@ -107,16 +107,16 @@ Project Link: [https://github.com/vineeths96/Linear-classifiers-and-Regression](
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/vineeths96/Pattern-Recognition-2.svg?style=flat-square
-[contributors-url]: https://github.com/vineeths96/Pattern-Recognition-2/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vineeths96/Pattern-Recognition-2.svg?style=flat-square
-[forks-url]: https://github.com/vineeths96/Pattern-Recognition-2/network/members
-[stars-shield]: https://img.shields.io/github/stars/vineeths96/Pattern-Recognition-2.svg?style=flat-square
-[stars-url]: https://github.com/vineeths96/Pattern-Recognition-2/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vineeths96/Pattern-Recognition-2.svg?style=flat-square
-[issues-url]: https://github.com/vineeths96/Pattern-Recognition-2/issues
+[contributors-shield]: https://img.shields.io/github/contributors/vineeths96/Linear-classifiers-and-Regression.svg?style=flat-square
+[contributors-url]: https://github.com/vineeths96/Linear-classifiers-and-Regression/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/vineeths96/Linear-classifiers-and-Regression.svg?style=flat-square
+[forks-url]: https://github.com/vineeths96/Linear-classifiers-and-Regression/network/members
+[stars-shield]: https://img.shields.io/github/stars/vineeths96/Linear-classifiers-and-Regression.svg?style=flat-square
+[stars-url]: https://github.com/vineeths96/Linear-classifiers-and-Regression/stargazers
+[issues-shield]: https://img.shields.io/github/issues/vineeths96/Linear-classifiers-and-Regression.svg?style=flat-square
+[issues-url]: https://github.com/vineeths96/Linear-classifiers-and-Regression/issues
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
-[license-url]: https://github.com/vineeths96/Pattern-Recognition-2/blob/master/LICENSE
+[license-url]: https://github.com/vineeths96/Linear-classifiers-and-Regression/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/vineeths
 
