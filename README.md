@@ -11,12 +11,13 @@
   <p align="center">
     Classifiers and Regression
     <br />
-    <a href=https://github.com/vineeths96/Pattern-Recognition-2><strong>Explore the repository»</strong></a>
+    <a href=https://github.com/vineeths96/Linear-classifiers-and-Regression><strong>Explore the repository»</strong></a>
     <br />
     <br />
     <a href=https://github.com/vineeths96/Pattern-Recognition-2/blob/master/Problem_Statement.pdf>View Problem Statement</a>
     <a href=https://github.com/vineeths96/Pattern-Recognition-2/blob/master/results/report.pdf>View Report</a>
   </p>
+
 
 
 
@@ -55,7 +56,7 @@ This project was built with
 Clone the repository into a local machine using
 
 ```shell
-git clone https://github.com/vineeths96/Pattern-Recognition-2
+git clone https://github.com/vineeths96/Linear-classifiers-and-Regression
 ```
 
 ### Prerequisites
@@ -99,7 +100,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Vineeth S  - vs96codes@gmail.com
 
-Project Link: [https://github.com/vineeths96/Pattern-Recognition-2](https://github.com/vineeths96/Pattern-Recognition-2)
+Project Link: [https://github.com/vineeths96/Linear-classifiers-and-Regression](https://github.com/vineeths96/Linear-classifiers-and-Regression)
 
 
 
